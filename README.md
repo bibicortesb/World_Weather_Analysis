@@ -41,6 +41,7 @@ The map is presented below using google maps the map was formed.
 The last step was to create a Travel Itinerary Map. In this step, Geoapify Routing API was used.
 
 Four cities in Mexico where selected for this itineraty 
+
 <img width="596" alt="Screen Shot 2023-03-05 at 17 00 43" src="https://user-images.githubusercontent.com/114015620/222990868-78b50333-dbde-4ef2-8618-f8c6448c7c76.png">
 
 Itinerary Map.
